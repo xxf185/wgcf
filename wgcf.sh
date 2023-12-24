@@ -5,7 +5,7 @@
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
-# https://github.com/P3TERX/script
+# https://github.com/xxf185/script
 # File name: wgcf.sh
 # Description: Install latest version wgcf
 # System Required: GNU/Linux
@@ -25,7 +25,7 @@ INFO="[${Green_font_prefix}INFO${Font_color_suffix}]"
 ERROR="[${Red_font_prefix}ERROR${Font_color_suffix}]"
 
 PROJECT_NAME='wgcf'
-GH_API_URL='https://api.github.com/repos/ViRb3/wgcf/releases/latest'
+GH_API_URL='https://api.github.com/repos/xxf185/wgcf/releases/latest'
 BIN_DIR='/usr/local/bin'
 BIN_NAME='wgcf'
 BIN_FILE="${BIN_DIR}/${BIN_NAME}"
